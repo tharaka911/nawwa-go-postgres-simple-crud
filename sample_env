@@ -1,0 +1,2 @@
+PORT = 9000
+DB_URL ="host=john.db.elephantsql.com user=cfjlmgno password=2v03agms2Pqq56_yaRLLXI9-HpwHScM6 dbname=cfjlmgno port=5432"
